@@ -89,10 +89,11 @@ Git • VS Code • Postman • Vercel • Firebase
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/shivam-k-13/shivam-k-13/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
