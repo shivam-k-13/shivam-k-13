@@ -1,118 +1,173 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HERO ===================== -->
 
-<h1 align="center">🌷Hi, I'm Shivam🌷</h1>
+<h1 align="center">👨‍💻 Shivam Khosla</h1>
 
 <h3 align="center">
-Final Year B.Tech CSE Student • Aspiring Software Engineer 🚀
+Python Developer 🐍 | AI Builder 🤖 | Software Engineer 🚀
 </h3>
 
 <p align="center">
-💡 Building scalable software • Solving complex problems • Exploring AI
+Building scalable systems • Solving real-world problems • Exploring AI
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;DSA+Problem+Solver;Future+Software+Engineer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Python+Developer;AI+%2F+ML+Engineer;Full+Stack+Developer;DSA+Problem+Solver;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 🌸 About Me
+# 🧠 About Me
 
-🎓 Final-year B.Tech student in Computer Science & Engineering  
+🎓 Final Year **B.Tech Computer Science Student**
 
-💻 Strong foundation in Computer Science fundamentals  
+🐍 **Python Developer** passionate about building scalable backend systems
 
-🚀 Aspiring Software Engineer passionate about scalable systems  
+🚀 Interested in **AI, Machine Learning and Software Engineering**
 
-🧠 DSA enthusiast with strong problem-solving skills in C++  
+🧠 Strong **DSA & Problem Solving skills (C++ & Python)**
 
-🌐 Experienced in Full-Stack Development and AI/ML projects  
+💻 Building **AI + Full Stack projects solving real-world problems**
 
-⚡ Fun fact: I talk to my code… it sometimes listens 😄  
+⚡ **Math Joke:**  
+I tried to understand imaginary numbers…  
+but they were too complex for me. 😄
 
 ---
 
-## 🚀 Tech Stack
+# ⚙️ Tech Stack
 
-### 💻 Languages
-C • C++ • Java • Python • JavaScript • TypeScript  
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
+</p>
 
 ### 🌐 Full Stack Development
-**Frontend:** HTML • CSS • React • Next.js  
-**Backend:** Node.js • Express.js  
-**Databases:** MySQL • MongoDB • Firebase  
 
-### 🧠 AI / ML & GenAI
-OpenAI • Hugging Face  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express"/>
+</p>
 
-### 🛠️ Tools & Platforms
-Git • VS Code • Postman • Vercel • Firebase  
+### 🧠 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+OpenAI • Hugging Face • AI APIs
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,vercel"/>
+</p>
 
 ---
 
-## 📚 Computer Science Fundamentals
+# 🏆 Featured Projects
+
+### 🤖 Hire-Smart (AI Resume Screener)
+
+AI-powered system that analyzes resumes, extracts skills and ranks candidates based on job requirements.
+
+**Tech:** Python • NLP • Machine Learning • FastAPI
+
+---
+
+### 🎨 AI Image Generator
+
+AI tool that generates images from prompts using modern generative AI models.
+
+**Tech:** Python • OpenAI API • HuggingFace
+
+---
+
+### 🔗 URL Shortener
+
+A scalable system that converts long URLs into short links.
+
+**Tech:** Node.js • Express • MongoDB
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivam-k-13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-k-13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivam-k-13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam-k-13&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# 📚 Computer Science Knowledge
 
 ✔ Data Structures & Algorithms  
 ✔ Operating Systems  
 ✔ DBMS  
 ✔ Object-Oriented Programming  
-✔ Analysis & Design of Algorithms  
+✔ System Design Fundamentals  
 
 ---
 
-## 🏆 Projects Focus
-
-🔹 AI & Machine Learning Applications  
-🔹 Full-Stack Web Applications (MERN)  
-🔹 Problem-Solving & Algorithms  
-🔹 Real-world Software Systems  
-
----
-
-## 📊 GitHub Stats
+# 🤝 Connect With Me
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muskann07&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muskann07&layout=compact&theme=tokyonight"/>
-</p>
 
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muskann07&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muskann07/muskann07/output/snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/muskan-jsr/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/shivamkhosla13/">
+<img src="https://img.shields.io/badge/LinkedIn-Shivam_Khosla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:muskansr.2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:shivamkhosla13042004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-✨ Turning ideas into real-world software solutions ✨
+⚡ <b>“Code. Build. Solve. Repeat.”</b>
 </p>
 
 <p align="center">
-⭐ If you like my work, consider giving a star!
+⭐ If you like my work, consider starring my repositories
 </p>
